@@ -1,7 +1,6 @@
 # Программа приветствия
-name = "Natalya"
+name = "Natalya Orlova"
 group = "IU5-13M"
-print("Hello, world!")
-print("Hello, " + name + "!")
+print("Hello, " + name + " from master!")
 print("Your group: " + group)
-print("Goodbye!")
+print("University: BMSTU")
