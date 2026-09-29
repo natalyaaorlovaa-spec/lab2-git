@@ -5,3 +5,4 @@ print("Hello, " + name + "!")
 print("Your group: " + group)
 print("Course: Software Development Technologies")
 print("University: BMSTU")
+# work in progress
